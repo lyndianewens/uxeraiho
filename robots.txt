@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ipeeyinee.edgeowner.com/sitemap.xml
